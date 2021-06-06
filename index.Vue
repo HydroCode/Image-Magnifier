@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -9,7 +8,7 @@
   <body>
     <script src="script.js"></script>
 		<div class="img-magnifier-container">
-  		<img id="myimage" src="16672427216_dc063b3650_b.jpg" width="600" height="400" alt="Girl">
+  		<img id="myimage" src="berg.png" width="600" height="400" alt="Girl">
 		</div>
   </body>
 </html>
