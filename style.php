@@ -9,7 +9,6 @@
   border: 3px solid #000;
   border-radius: 50%;
   cursor: none;
-  /*Set the size of the magnifier glass:*/
   width: 100px;
   height: 100px;
 }
